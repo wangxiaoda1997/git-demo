@@ -17,4 +17,7 @@ hello wangdachui hello wangxiaoda
 222222
 333333
 444444
+<<<<<<< HEAD
 master test
+=======
+>>>>>>> hot-fix
